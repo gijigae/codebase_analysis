@@ -28,5 +28,12 @@ ca_with_haiku.py CODEBASE_DIR OUTPUT_DIR
 
 # Example Output:
 
-The [following](https://github.com/gijigae/codebase_analysis/tree/main/dify_code_analysis_sample) is example output from analysis of dify/api/tasks codebase.
+## Python Codebase
+
+The [following](https://github.com/gijigae/codebase_analysis/tree/main/dify_ca_sample/api/tasks) is example output from analysis of dify/api/tasks codebase.
+
+## Typescript Codebase
+
+The [following](https://github.com/gijigae/codebase_analysis/tree/main/dify_ca_sample/web/service) is example output from analysis of dify/web/service codebase.
+
 
