@@ -1,4 +1,4 @@
-# Automate Massive Codebase Analysis with Language Model
+# Automate Massive Codebase Analysis (CA) with Language Model
 
 <p align="center">
   <img src="chimp.webp" alt="Chimp" width="400">
@@ -26,10 +26,7 @@ pip install -r requirements.txt
 ca_with_haiku.py CODEBASE_DIR OUTPUT_DIR
 ```
 
-```
-
-
 # Example Output:
 
-The [following](https://github.com/cloneofsimo/reverse_eng_deepspeed_study/tree/main/decomposed) is example output from analysis of DeepSpeed codebase.
+The [following](https://github.com/gijigae/codebase_analysis/tree/main/dify_code_analysis_sample) is example output from analysis of dify/api/tasks codebase.
 
