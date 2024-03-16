@@ -15,18 +15,17 @@ This will recursively generate...
 
 # Installation & Use
 
-Install sglang and run server.
 
-```bash
-pip install sglang
-python -m sglang.launch_server --model-path "Qwen/Qwen1.5-72B-Chat" --tp 4 --port 8080
-```
 
+Rename the `.env.example`to `.env` and add your own API key from Anthropic.
 
 Run it via
 
 ```bash
-convert.py CODEBASE_DIR OUTPUT_DIR --port 8080
+pip install -r requirements.txt
+ca_with_haiku.py CODEBASE_DIR OUTPUT_DIR
+```
+
 ```
 
 
