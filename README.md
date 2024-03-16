@@ -19,6 +19,12 @@ This will recursively generate...
 
 Rename the `.env.example`to `.env` and add your own API key from Anthropic.
 
+Update the list of allowed_extensions to limit the types of file extensions.
+
+```bash
+allowed_extensions = ['.ts', '.tsx','.js', '.jsx','.py']
+```
+
 Run it via
 
 ```bash
